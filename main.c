@@ -1,9 +1,6 @@
 #include <stdio.h>
-int main() {
-HEAD
-    printf("Hello, World!\\n");
 
-    printf("Hello, World!\n");
-f9b9782 (Initial commit with basic files)
+int main() {
+    printf("Hello from both local and remote versions!\n");
     return 0;
 }
